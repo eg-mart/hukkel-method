@@ -1,1 +1,1 @@
-worker: python det.py
+worker: python det.py > log.txt
