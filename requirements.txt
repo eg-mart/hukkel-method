@@ -1,0 +1,4 @@
+pysmiles
+numpy
+sympy
+netwotkx
