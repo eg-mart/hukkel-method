@@ -1,4 +1,4 @@
 pysmiles
 numpy
 sympy
-netwotkx
+networkx
