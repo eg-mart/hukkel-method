@@ -102,7 +102,7 @@ def generate_system(H, S, E, C):
 
 
 e = sp.Symbol('e')
-smiles = 'C=CC=C'
+smiles = 'C=C'
 mol = pysmiles.read_smiles(smiles)
 n = len(mol.nodes())
 
