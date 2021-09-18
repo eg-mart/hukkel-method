@@ -125,7 +125,7 @@ for i in range(1, len(C_symb)):
 
 C = [0]
 solution = solve(generate_system(H, S, E, C_symb), C_unknown)
-print(solution)
+print('solutions:', solution)
 for i in range(1, n + 1):
 	C.append([0])
 	for j in range(1, n + 1):
